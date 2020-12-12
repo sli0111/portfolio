@@ -30,7 +30,7 @@ Handwritten digits are used on bank checks, medical applications, and mail but v
 
 ### Lyft Bikeshare
 
-[Github](https://github.com/sli0111/lyft_bikeshare)
+[Github](https://github.com/sli0111/lyft_bikeshare) [nbviewer](https://nbviewer.jupyter.org/github/sli0111/lyft_bikeshare/blob/gh-pages/Lyft%20Bikeshare.ipynb#)
 
 The bikeshare industry is still growing especially in modern cities.  This project utilizes the Lyft Bikeshare dataset on the Google Gloud Platform and applies BigQuery, Jupyter Notebooks, Pandas, and Seaborn to explore opportunities to increase membership,
 
