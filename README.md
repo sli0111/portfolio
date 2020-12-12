@@ -22,6 +22,9 @@ Handwritten digits are used on bank checks, medical applications, and mail but v
 
 ## Natural Language Processing
 
+### Random Acts of Pizza (ROAP)
+
+A popular subreddit is random acts of pizza, where strangers can request for free pizza from other strangers.  People's request are in the form of text data thus natural language processing was applied using the nltk package and unsupervised text clustering with KMeans algorithm to extract features.  Extracted features were used with a logistic regression model algorithm to predict which post would receive pizza.
 
 ## Neural Networks
 
