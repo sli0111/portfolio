@@ -24,7 +24,7 @@ Handwritten digits are used on bank checks, medical applications, and mail but v
 
 ### Random Acts of Pizza (ROAP)
 
-[Github[(https://github.com/sli0111/raop) [nbviewr](https://nbviewer.jupyter.org/github/sli0111/raop/blob/main/Baseline_and_Logistic_Regression_Model_v4.ipynb)
+[Github](https://github.com/sli0111/raop) [nbviewr](https://nbviewer.jupyter.org/github/sli0111/raop/blob/main/Baseline_and_Logistic_Regression_Model_v4.ipynb)
 
 A popular subreddit is random acts of pizza, where strangers can request for free pizza from other strangers.  People's request are in the form of text data thus natural language processing was applied using the nltk package and unsupervised text clustering with KMeans algorithm to extract features.  Extracted features were used with a logistic regression model algorithm to predict which post would receive pizza.
 
