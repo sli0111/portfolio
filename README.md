@@ -31,7 +31,7 @@ A popular subreddit is random acts of pizza, where strangers can request for fre
 
 ### Tweet Sentiment Extraction
 
-[Github](https://github.com/sli0111/tweet_sentiment_extraction) [nbviewer (https://nbviewer.jupyter.org/github/sli0111/tweet_sentiment_extraction/blob/main/Tweet_Sentiment_Extraction_v1.ipynb)
+[Github](https://github.com/sli0111/tweet_sentiment_extraction) [nbviewer](https://nbviewer.jupyter.org/github/sli0111/tweet_sentiment_extraction/blob/main/Tweet_Sentiment_Extraction_v1.ipynb)
 
 Given the wide spread use of social media, influential tweets or messages could initiate huge positive or negative public reactions.  However which words lead to those sentiment descriptions?  This project utilizes text preprocessing with nltk and a Naive Bayes classifier to predict which words or phrases most reflect that sentiment.
 
