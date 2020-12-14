@@ -29,6 +29,12 @@ Handwritten digits are used on bank checks, medical applications, and mail but v
 
 A popular subreddit is random acts of pizza, where strangers can request for free pizza from other strangers.  People's request are in the form of text data thus natural language processing was applied using the nltk package and unsupervised text clustering with KMeans algorithm to extract features.  Extracted features were used with a logistic regression model algorithm to predict which post would receive pizza.
 
+### Tweet Sentiment Extraction
+
+[Github](https://github.com/sli0111/tweet_sentiment_extraction) [nbviewer (https://nbviewer.jupyter.org/github/sli0111/tweet_sentiment_extraction/blob/main/Tweet_Sentiment_Extraction_v1.ipynb)
+
+Given the wide spread use of social media, influential tweets or messages could initiate huge positive or negative public reactions.  However which words lead to those sentiment descriptions?  This project utilizes text preprocessing with nltk and a Naive Bayes classifier to predict which words or phrases most reflect that sentiment.
+
 ## Neural Networks
 
 
