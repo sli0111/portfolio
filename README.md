@@ -3,14 +3,6 @@ https://sli0111.github.io/portfolio/
 
 This portfolio is a compilation of notebooks in which I explore and analyze data science science problems with machine learning.  The projects below are divided into several main categories: tutorials, kaggle competitions, regression problems, natural language processing, neural networks, and data exploration.
 
-## Tutorials
-
-
-## Kaggle Competitions
-
-
-## Regression problems
-
 
 ## Clustering
 
@@ -37,6 +29,18 @@ Given the wide spread use of social media, influential tweets or messages could 
 
 ## Neural Networks
 
+[Github[(https://github.com/sli0111/MIDS-251-2021-Final-Project) [nbviewer](https://github.com/sli0111/MIDS-251-2021-Final-Project/blob/main/ResNet18/ResNet18.ipynb)
+
+### Prediction of COVID-19 from CT Scans
+
+COVID-19 pandemic shook the world as it spread nearly out of control and many argue that early detection would have been key to mitigating it.  In this project, transfer learning of deep convolutional neural networks (CNN) are applied to CT Scan slices of lungs to detect COVID-19, in comparison to a normal lung or a lung with pneumonia.  The project demonstrates an end-to-end pipeline from data ingestion, training, deployment, and inference on a edge device.  We found that transfer learning CNN could be highly effective on medical images.
+
+## Parallel Computational Machine Learning
+
+### Prediction of Flight Delay
+
+Flight delays cost the US economy as much as $32 billion dollars each year.  This project applies parallel computing with PySpark to develop a machine learning pipeline that uses gradient boosted decision trees to predict flight delays.  Ultimately, this would improve chances of airports making the appropriate manuevers when a flight delay would occur.
+
 
 # Data Exploration
 
@@ -44,5 +48,5 @@ Given the wide spread use of social media, influential tweets or messages could 
 
 [Github](https://github.com/sli0111/lyft_bikeshare) [nbviewer](https://nbviewer.jupyter.org/github/sli0111/lyft_bikeshare/blob/gh-pages/Lyft%20Bikeshare.ipynb#)
 
-The bikeshare industry is still growing especially in modern cities.  This project utilizes the Lyft Bikeshare dataset on the Google Gloud Platform and applies BigQuery, Jupyter Notebooks, Pandas, and Seaborn to explore opportunities to increase membership,
+The bikeshare industry is still growing especially in modern cities.  This project utilizes the Lyft Bikeshare dataset on the Google Gloud Platform and applies BigQuery, Jupyter Notebooks, Pandas, and Seaborn to explore opportunities to increase membership.
 
