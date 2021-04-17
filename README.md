@@ -37,7 +37,7 @@ COVID-19 pandemic shook the world as it spread nearly out of control and many ar
 
 ## Parallel Computational Machine Learning
 
-[Github](https://github.com/sli0111/flight_delay)[nbviewer](https://nbviewer.jupyter.org/github/sli0111/flight_delay/blob/main/Team%2020%20-%20Algorithm%20Exploration-6m-UnderSample.ipynb)
+[Github](https://github.com/sli0111/flight_delay) [nbviewer](https://nbviewer.jupyter.org/github/sli0111/flight_delay/blob/main/Team%2020%20-%20Algorithm%20Exploration-6m-UnderSample.ipynb)
 
 ### Prediction of Flight Delay
 
