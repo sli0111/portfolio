@@ -42,7 +42,7 @@ COVID-19 pandemic shook the world as it spread nearly out of control and many ar
 Flight delays cost the US economy as much as $32 billion dollars each year.  This project applies parallel computing with PySpark to develop a machine learning pipeline that uses gradient boosted decision trees to predict flight delays.  Ultimately, this would improve chances of airports making the appropriate manuevers when a flight delay would occur.
 
 
-# Data Exploration
+## Data Exploration
 
 ### Lyft Bikeshare
 
