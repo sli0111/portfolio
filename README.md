@@ -29,13 +29,15 @@ Given the wide spread use of social media, influential tweets or messages could 
 
 ## Neural Networks
 
-[Github[(https://github.com/sli0111/MIDS-251-2021-Final-Project) [nbviewer](https://github.com/sli0111/MIDS-251-2021-Final-Project/blob/main/ResNet18/ResNet18.ipynb)
+[Github](https://github.com/sli0111/MIDS-251-2021-Final-Project) [nbviewer](https://nbviewer.jupyter.org/github/sli0111/MIDS-251-2021-Final-Project/blob/main/ResNet18/ResNet18.ipynb)
 
 ### Prediction of COVID-19 from CT Scans
 
 COVID-19 pandemic shook the world as it spread nearly out of control and many argue that early detection would have been key to mitigating it.  In this project, transfer learning of deep convolutional neural networks (CNN) are applied to CT Scan slices of lungs to detect COVID-19, in comparison to a normal lung or a lung with pneumonia.  The project demonstrates an end-to-end pipeline from data ingestion, training, deployment, and inference on a edge device.  We found that transfer learning CNN could be highly effective on medical images.
 
 ## Parallel Computational Machine Learning
+
+[Github](https://github.com/sli0111/flight_delay)[nbviewer](https://nbviewer.jupyter.org/github/sli0111/flight_delay/blob/main/Team%2020%20-%20Algorithm%20Exploration-6m-UnderSample.ipynb)
 
 ### Prediction of Flight Delay
 
