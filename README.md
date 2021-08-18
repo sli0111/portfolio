@@ -40,10 +40,6 @@ A popular subreddit is random acts of pizza, where strangers can request for fre
 
 Given the wide spread use of social media, influential tweets or messages could initiate huge positive or negative public reactions.  However which words lead to those sentiment descriptions?  This project utilizes text preprocessing with nltk and a Naive Bayes classifier to predict which words or phrases most reflect that sentiment.
 
-## Neural Networks
-
-[Github](https://github.com/sli0111/MIDS-251-2021-Final-Project) [nbviewer](https://nbviewer.jupyter.org/github/sli0111/MIDS-251-2021-Final-Project/blob/main/ResNet18/ResNet18.ipynb)
-
 
 ## Parallel Computational Machine Learning
 
