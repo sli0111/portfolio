@@ -7,7 +7,7 @@ This portfolio is a compilation of notebooks in which I explore and solve data s
 
 ### Cancer Drug Response Prediction
 
-[Website](https://screenahead.datavizit.org/)
+[Website](https://www.ischool.berkeley.edu/projects/2021/screen-ahead-rx)
 
 For 7 out of 10 cancer patients, the first cancer drug fails to work for them.  In this project,  I worked with a team to develop novel drug embeddings that capture drug structure using NLP models: bi-directional RNN autoencoder and BERT.  When the drug embeddings are combined with cancer genetics, we saw improve cancer response prediction.
 
